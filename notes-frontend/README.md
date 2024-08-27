@@ -2,6 +2,7 @@
 git status
 git add .
 git commit -m "comment"
+git push
 ng build --output-path=dist/Notes-App --base-href "https://SumanPatel07.github.io/Notes-App/"       
 npx angular-cli-ghpages --dir=dist/Notes-App
 
