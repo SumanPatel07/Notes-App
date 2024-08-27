@@ -1,4 +1,9 @@
 # NotesFrontend
+git status
+git add .
+git commit -m "comment"
+ng build --output-path=dist/Notes-App --base-href "https://SumanPatel07.github.io/Notes-App/"       
+npx angular-cli-ghpages --dir=dist/Notes-App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.11.
 
